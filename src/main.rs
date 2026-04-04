@@ -9,6 +9,8 @@
     clippy::implicit_return
 )]
 
+mod error;
+
 fn main() {
     println!("Hello, world!");
 }
